@@ -6,3 +6,4 @@ memory/
 data/**/*.pdf
 omni/
 eval/results_*.csv
+.DS_Store
