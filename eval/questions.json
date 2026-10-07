@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What are the main stages of the LNG value chain, from natural gas production to delivery to the end customer?",
+    "expect_document": "IGU",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "question": "How does a liquefaction plant convert natural gas into LNG, and why is the gas cooled to approximately -162 C?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "question": "What factors determine the nameplate capacity and actual utilization rate of an LNG export terminal?",
+    "expect_document": "IGU",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "question": "What is the difference between baseload LNG, peak-shaving LNG, and small-scale LNG projects?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "question": "How do Henry Hub, TTF, and JKM pricing benchmarks differ, and where is each benchmark most relevant?",
+    "expect_document": "GasMarketReport",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "question": "What are the main pricing structures used in long-term LNG sales and purchase agreements, including oil-indexed and gas-indexed contracts?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between FOB and DES LNG contracts, and how do those terms affect shipping responsibility and commercial risk?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "question": "What factors influence LNG shipping costs, including voyage distance, vessel size, boil-off gas, canal fees, and charter rates?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "question": "How does boil-off gas affect LNG storage and transportation, and how is it typically managed on modern LNG carriers?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "question": "What is the role of regasification terminals, and how do onshore terminals differ from floating storage and regasification units?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "question": "How do seasonal demand patterns influence LNG flows between Asia, Europe, and the Atlantic Basin?",
+    "expect_document": "IGU",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "question": "What are the principal drivers of LNG demand in power generation, industry, residential heating, and transportation?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "question": "How can LNG projects reduce lifecycle greenhouse-gas emissions, including methane leakage, liquefaction energy use, shipping emissions, and regasification?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "question": "What are the main technical and commercial risks faced by a new LNG export project before final investment decision?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "question": "How do feedgas availability, pipeline connectivity, and upstream gas supply affect the economics and reliability of an LNG project?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "question": "What role do long-term offtake agreements play in financing LNG projects, and why are creditworthy buyers important?",
+    "expect_document": "IGU",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "question": "How do geopolitical disruptions, sanctions, canal closures, or regional conflicts affect LNG trade routes and market prices?",
+    "expect_document": "GasMarketReport",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "question": "What is the difference between brownfield and greenfield LNG development, and what are the main advantages and disadvantages of each?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "question": "How are LNG terminals and projects evaluated for energy security, data sovereignty, cybersecurity, and operational resilience?",
+    "expect_document": "",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "question": "If you were comparing two LNG projects, which technical, financial, contractual, environmental, and market metrics would you use?",
+    "expect_document": "",
+    "notes": ""
+  }
+]

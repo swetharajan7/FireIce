@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+index/
+memory/
+data/**/*.pdf
+omni/
+eval/results_*.csv
